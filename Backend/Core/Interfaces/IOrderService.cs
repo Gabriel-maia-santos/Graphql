@@ -1,9 +1,13 @@
 using Core.Entities;
+using Core.Models;
 
-namespace Core.Interfaces
+namespace Core.Interfaces;
+
+public interface IOrderService
 {
-    public interface IOrderService
-    {
-        IQueryable<Order> GetOrders();
-    }
+    IQueryable<Order> GetOrders();
+
+    Task<Order> AddOrUpdateOrderAsync(OrderModel orderModel);
+
+    Task<bool> DeleteOrderAsync(int orderId);
 }

@@ -9,3 +9,4 @@ C:\Users\user\OneDrive\Documentos\Workspace\Estudos\Aspnet\GraphQL fullstack\Bac
 C:\Users\user\OneDrive\Documentos\Workspace\Estudos\Aspnet\GraphQL fullstack\Backend\Core\obj\Debug\net8.0\refint\Core.dll
 C:\Users\user\OneDrive\Documentos\Workspace\Estudos\Aspnet\GraphQL fullstack\Backend\Core\obj\Debug\net8.0\Core.pdb
 C:\Users\user\OneDrive\Documentos\Workspace\Estudos\Aspnet\GraphQL fullstack\Backend\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\user\OneDrive\Documentos\Workspace\Estudos\Aspnet\GraphQL fullstack\Backend\Core\obj\Debug\net8.0\Core.sourcelink.json

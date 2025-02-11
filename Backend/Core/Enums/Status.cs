@@ -1,10 +1,9 @@
-namespace Core.Enums
+namespace Core.Enums;
+
+public enum Status
 {
-    public enum Status
-    {
-        Pending,
-        Draft,
-        Completed,
-        Shipped
-    }
+    Pending,
+    Draft,
+    Completed,
+    Shipped
 }
