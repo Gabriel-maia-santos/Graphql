@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Documentos\\Workspace\\Estudos\\Aspnet\\GraphQL fullstack\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE04665-C1B3-4166-A36C-81C4451FEC6B}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\onedrive\\documentos\\workspace\\estudos\\aspnet\\graphql fullstack\\backend\\infrastructure\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE04665-C1B3-4166-A36C-81C4451FEC6B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDC3FBD-A675-455D-9A12-E37E9CA94DC3}|API\\API.csproj|c:\\users\\user\\onedrive\\documentos\\workspace\\estudos\\aspnet\\graphql fullstack\\backend\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDC3FBD-A675-455D-9A12-E37E9CA94DC3}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE04665-C1B3-4166-A36C-81C4451FEC6B}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\onedrive\\documentos\\workspace\\estudos\\aspnet\\graphql fullstack\\backend\\infrastructure\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE04665-C1B3-4166-A36C-81C4451FEC6B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDC3FBD-A675-455D-9A12-E37E9CA94DC3}|API\\API.csproj|c:\\users\\user\\onedrive\\documentos\\workspace\\estudos\\aspnet\\graphql fullstack\\backend\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DDC3FBD-A675-455D-9A12-E37E9CA94DC3}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDC3FBD-A675-455D-9A12-E37E9CA94DC3}|API\\API.csproj|c:\\users\\user\\onedrive\\documentos\\workspace\\estudos\\aspnet\\graphql fullstack\\backend\\api\\graphql\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDC3FBD-A675-455D-9A12-E37E9CA94DC3}|API\\API.csproj|solutionrelative:api\\graphql\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documentos\\Workspace\\Estudos\\Aspnet\\GraphQL fullstack\\Backend\\Infrastructure\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documentos\\Workspace\\Estudos\\Aspnet\\GraphQL fullstack\\Backend\\Infrastructure\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T18:54:04.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documentos\\Workspace\\Estudos\\Aspnet\\GraphQL fullstack\\Backend\\Infrastructure\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documentos\\Workspace\\Estudos\\Aspnet\\GraphQL fullstack\\Backend\\Infrastructure\\Services\\OrderService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T18:51:40.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documentos\\Workspace\\Estudos\\Aspnet\\GraphQL fullstack\\Backend\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documentos\\Workspace\\Estudos\\Aspnet\\GraphQL fullstack\\Backend\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:56:42.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documentos\\Workspace\\Estudos\\Aspnet\\GraphQL fullstack\\Backend\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documentos\\Workspace\\Estudos\\Aspnet\\GraphQL fullstack\\Backend\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-11T10:44:31.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Query.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documentos\\Workspace\\Estudos\\Aspnet\\GraphQL fullstack\\Backend\\API\\GraphQL\\Query.cs",
+              "RelativeDocumentMoniker": "API\\GraphQL\\Query.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documentos\\Workspace\\Estudos\\Aspnet\\GraphQL fullstack\\Backend\\API\\GraphQL\\Query.cs",
+              "RelativeToolTip": "API\\GraphQL\\Query.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:41:08.019Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
