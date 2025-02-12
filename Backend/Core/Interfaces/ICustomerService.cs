@@ -5,7 +5,7 @@ namespace Core.Interfaces;
 
 public interface ICustomerService
 {
-    IQueryable<Customer> GetCustomersAndOrders();
+    Task<List<Customer>> GetCustomersAndOrders();
 
     Task<Customer> AddOrUpdateCustomerAsync(CustomerModel customerModel);
 

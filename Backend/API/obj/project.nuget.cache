@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "32su6rj7rqXFHOp67x5blFHInlLf9y1pcKhJr2VXQH6BscNhrYW33P+tKYdFRKKx/gBq8zfWiLR73jOw4ApvQw==",
+  "dgSpecHash": "q7Rbi4Y1l1dtDyQ7VbK3+tk9hMvN39xhb5yxDeiNH/oh1ML6f+/le67dobBCN4csMKBLNgykoBPRnFkIhrv43g==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\OneDrive\\Documentos\\Workspace\\Estudos\\Aspnet\\GraphQL fullstack\\Backend\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\chillicream.nitro.app\\20.0.2\\chillicream.nitro.app.20.0.2.nupkg.sha512",

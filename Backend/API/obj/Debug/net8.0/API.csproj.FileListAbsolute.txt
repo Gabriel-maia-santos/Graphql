@@ -211,3 +211,4 @@ C:\Users\user\OneDrive\Documentos\Workspace\Estudos\Aspnet\GraphQL fullstack\Bac
 C:\Users\user\OneDrive\Documentos\Workspace\Estudos\Aspnet\GraphQL fullstack\Backend\API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\user\OneDrive\Documentos\Workspace\Estudos\Aspnet\GraphQL fullstack\Backend\API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\user\OneDrive\Documentos\Workspace\Estudos\Aspnet\GraphQL fullstack\Backend\API\obj\Debug\net8.0\API.sourcelink.json
+C:\Users\user\OneDrive\Documentos\Workspace\Estudos\Aspnet\GraphQL fullstack\Backend\API\bin\Debug\net8.0\AutoMapper.dll

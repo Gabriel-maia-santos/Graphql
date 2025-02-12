@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3bwtWpFPC2BgWZPtlfPBSyW4KqH4JZ+9CNZL8KNDq9aDZF6t5ioXPZXa5K2fVBccI1t+2ZRJDnOoTlK82sUJuA==",
+  "dgSpecHash": "+RR9ncv77SjeWbCGXE5Xtb+nkDDCh8+ycTZXstRQG7MIZC7+swl+TfOzzABN/W7crWj7Hyw9LTZMTxyelU4nMw==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\OneDrive\\Documentos\\Workspace\\Estudos\\Aspnet\\GraphQL fullstack\\Backend\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

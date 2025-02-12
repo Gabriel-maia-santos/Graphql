@@ -1,5 +1,6 @@
 using API.GraphQL;
 using Core.Interfaces;
+using Core.Profiles;
 using GraphQL.Server.Ui.Voyager;
 using Infrastructure.Data;
 using Infrastructure.Services;
@@ -16,6 +17,10 @@ builder.Services.AddDbContextFactory<OMAContext>(options =>
 
 builder.Services.AddScoped<ICustomerService, CustomerService>();
 builder.Services.AddScoped<IOrderService, OrderService>();
+
+//adicionando mapper
+builder.Services.AddAutoMapper(typeof(CustomerProfile));
+builder.Services.AddAutoMapper(typeof(OrderProfile));
 
 //configuracao graphql
 builder.Services
